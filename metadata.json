@@ -1,0 +1,8 @@
+{
+  "uuid": "window-logger@meodoc.github.com",
+  "name": "Window Logger",
+  "description": "Logs window created events",
+  "url": "https://github.com/meodoc/window-logger-gnome-shell-extension",
+  "shell-version": ["48"], 
+  "version": 1
+}
